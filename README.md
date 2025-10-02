@@ -1,4 +1,4 @@
-# 🚀 ArgonHub - Ultimate Blade Ball Script Hub
+# ArgonHubX
 
 <div align="center">
   <img src="herosection.png" alt="ArgonHub Hero" width="600"/>
@@ -10,26 +10,6 @@
 
   **The most powerful and undetectable script hub for Blade Ball**
 </div>
-
----
-
-## ✨ Features
-
-### 🎯 **Perfect Auto-Parry**
-Never miss a block again. Our flawless auto-parry predicts and counters every incoming attack with perfect timing.
-
-### 🛡️ **Semi-Immortal**
-Prevents the ball from killing you, giving you a massive advantage in crucial moments.
-
-### 🔒 **Undetectable & Secure**
-Play with confidence. ArgonHub is designed to be undetectable, keeping your account safe from bans.
-
-### 🎨 **Modern UI/UX**
-Beautiful, responsive design with smooth animations and interactive elements.
-
----
-
-## 🚀 Quick Start
 
 ### Installation
 
@@ -50,7 +30,7 @@ Beautiful, responsive design with smooth animations and interactive elements.
    ```
 
 4. **Open your browser:**
-   Navigate to `http://localhost:5173`
+   Navigate to `http://localhost:xxxx`
 
 ### Usage in Blade Ball
 
@@ -59,13 +39,9 @@ Beautiful, responsive design with smooth animations and interactive elements.
    loadstring(game:HttpGet("https://raw.githubusercontent.com/AgentX771/ArgonHubX/main/Loader.lua"))()
    ```
 
-2. Execute it in your Roblox executor
-
-3. Enjoy dominating every match! 🎮
-
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 - **Frontend:** React 19.1.1 with TypeScript
 - **Build Tool:** Vite 6.2.0
@@ -75,7 +51,7 @@ Beautiful, responsive design with smooth animations and interactive elements.
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 argonhub/
@@ -101,42 +77,3 @@ argonhub/
 ```
 
 ---
-
-## 🎮 Game Features
-
-- **Auto-Parry System** - Perfect timing, never miss a parry
-- **Semi-Immortal Mode** - Survive impossible situations
-- **Undetectable Scripts** - Stay safe while dominating
-- **User-Friendly Interface** - Easy to use and configure
-- **Regular Updates** - Always improving and adding new features
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-1. Fork the project
-2. Create your feature branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-## ⚠️ Disclaimer
-
-**Use at your own risk.** We are not responsible for any bans or penalties that may occur from using these scripts. Always follow the game's terms of service.
-
----
-
-<div align="center">
-  <p><strong>⭐ Star this repo if you found it helpful!</strong></p>
-  <p>Made with ❤️ for the Blade Ball community</p>
-</div>
