@@ -6,7 +6,6 @@
   [![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue.svg)](https://www.typescriptlang.org/)
   [![Vite](https://img.shields.io/badge/Vite-6.2.0-646CFF.svg)](https://vitejs.dev/)
-  [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-3.4.0-38B2AC.svg)](https://tailwindcss.com/)
 
   **The most powerful and undetectable script hub for Blade Ball**
 </div>
@@ -45,7 +44,6 @@
 
 - **Frontend:** React 19.1.1 with TypeScript
 - **Build Tool:** Vite 6.2.0
-- **Styling:** Tailwind CSS
 - **Icons:** Custom SVG icons
 - **Animations:** CSS animations and React state management
 
