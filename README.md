@@ -1,7 +1,7 @@
 # ArgonHubX
 
 <div align="center">
-  <img src="herosection.png" alt="ArgonHub Hero" width="600"/>
+  <img src="public/herosection.png" alt="ArgonHub Hero" width="600"/>
 
   [![React](https://img.shields.io/badge/React-19.1.1-blue.svg)](https://reactjs.org/)
   [![TypeScript](https://img.shields.io/badge/TypeScript-5.8.2-blue.svg)](https://www.typescriptlang.org/)
