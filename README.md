@@ -15,7 +15,7 @@
 1. **Clone the repository:**
    ```bash
    git clone https://github.com/xoscodev/argonhubx.git
-   cd argonhub
+   cd argonhubx
    ```
 
 2. **Install dependencies:**
@@ -52,7 +52,7 @@
 ## Project Structure
 
 ```
-argonhub/
+argonhubx/
 ├── public/
 │   └── herosection.png          # Hero section image
 ├── components/
