@@ -14,7 +14,7 @@
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/argonhub.git
+   git clone https://github.com/xoscodev/argonhubx.git
    cd argonhub
    ```
 
